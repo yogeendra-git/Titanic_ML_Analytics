@@ -297,7 +297,6 @@ Passengers traveling with family showed different survival patterns compared to 
 Children generally had better survival rates than older passengers.
 
 ---
-
 ## Machine Learning Pipeline
 
 ```text
@@ -319,12 +318,6 @@ Model Evaluation
        ↓
 Feature Importance Analysis
 ```
-
----
-
-## Future Improvements
-
-
 ## Conclusion
 
 This project demonstrates a complete end-to-end machine learning workflow using the Titanic dataset. Through data preprocessing, feature engineering, model training, and evaluation, meaningful insights were extracted and predictive models were developed to estimate passenger survival. The project highlights the importance of data preparation and feature engineering in improving machine learning performance.
